@@ -1,3 +1,4 @@
+D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
@@ -63,7 +64,6 @@ D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\System.Web.We
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
-D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
@@ -81,8 +81,12 @@ D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\Contoso
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentChanges.resources
+D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Directory\MVC EF Basics\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojAssemblyReference.cache
