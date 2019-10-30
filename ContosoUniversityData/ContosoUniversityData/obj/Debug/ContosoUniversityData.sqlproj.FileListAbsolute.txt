@@ -1,0 +1,5 @@
+D:\Directory\Training Code\MVC EF Basics\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+D:\Directory\Training Code\MVC EF Basics\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+D:\Directory\Training Code\MVC EF Basics\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+D:\Directory\Training Code\MVC EF Basics\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+D:\Directory\Training Code\MVC EF Basics\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
